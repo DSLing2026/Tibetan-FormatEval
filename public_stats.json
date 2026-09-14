@@ -1,0 +1,22 @@
+{
+  "record_count": 1418,
+  "format_files": [
+    "main.jsonl",
+    "mcqa_4way.jsonl",
+    "mcqa_10way.jsonl",
+    "open_short_answer.jsonl"
+  ],
+  "dataset_counts": {
+    "arc": 26,
+    "ceval": 663,
+    "mmlu": 729
+  },
+  "domain_counts": {
+    "Business / econ.": 140,
+    "General": 52,
+    "Humanities / edu.": 336,
+    "Law / social": 188,
+    "Life / med.": 234,
+    "STEM / eng.": 468
+  }
+}
